@@ -5,6 +5,7 @@ Este repositório será utilizado para a realização de tarefas/TPC's no âmbit
 - **Nome:** João Manuel Machado da Cunha
 - **Nº:** A104611
 - **Foto:**
+
 ![foto](https://avatars.githubusercontent.com/u/131183584?v=4)
 
 ### Lista de Referências aos ficheiros dos TPCs
