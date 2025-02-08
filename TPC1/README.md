@@ -10,7 +10,7 @@ Este script foi realizado no âmbito da UC de Processamento de Linguagens e impl
  - **Gestão de Estado**: Métodos para ligar ou desligar o interruptor.
 
 ## **Lista de Resultados**: 
-   - [somadorOnOff.py](./TPC1/somadorOnOff.py)
+   - [somadorOnOff.py](somadorOnOff.py)
 
 ## Utilização:
  - Utilizar o seguinte comando:
