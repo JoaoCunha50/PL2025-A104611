@@ -17,7 +17,6 @@ def parser():
     
     for record in records:
         fields = re.findall(r'(?:[^;"]|"(?:[^"]|"")*")+', record)
-        fields = [f.strip() for f in fields]
         
         if len(fields) >= 5:
             titulo = fields[0]
