@@ -1,0 +1,8 @@
+Distribuição de obras por período:
+- Barroco: 26 obras
+- Clássico: 15 obras
+- Contemporâneo: 7 obras
+- Medieval: 48 obras
+- Renascimento: 41 obras
+- Romântico: 19 obras
+- Século XX: 18 obras
