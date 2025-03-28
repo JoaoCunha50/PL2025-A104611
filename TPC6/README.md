@@ -3,6 +3,7 @@
 ## Autor
 - **Nome:** João Manuel Machado da Cunha
 - **Nº:** A104611
+
 ![Foto](https://avatars.githubusercontent.com/u/131183584?v=4)
 
 ## Descrição do Problema
