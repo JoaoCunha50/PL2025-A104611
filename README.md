@@ -16,3 +16,4 @@
 - [TPC4](./TPC4)
 - [TPC5](./TPC5)
 - [TPC6](./TPC6)
+- [Projeto Compilador](./Projeto_Compilador)
